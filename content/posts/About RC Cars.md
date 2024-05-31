@@ -2,7 +2,7 @@
 title: "About RC Cars"
 date: 2024-05-31T14:16:47+08:00
 tags: [About RC Cars]
-featured_image: ""
+featured_image: "/images/rc/1.jpg"
 description: "About RC"
 ---
 
@@ -10,7 +10,7 @@ description: "About RC"
 
 ![1](/images/rc/1.jpg)
 
-Title: "Understanding Remote Control (RC) and Its Applications"
+#### Understanding Remote Control (RC) and Its Applications
 
 Remote control (RC) technology has revolutionized various aspects of modern life, offering convenience, efficiency, and new possibilities across multiple industries. From entertainment and leisure to industrial and scientific applications, RC systems play a crucial role in enabling remote operation and control of devices, vehicles, and equipment.
 

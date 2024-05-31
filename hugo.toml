@@ -1,1 +1,4 @@
 theme = 'ananke'
+title = "Baird on RC Cars"
+[params]
+  email = "bairdweng@gmail.com"
