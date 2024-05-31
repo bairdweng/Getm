@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Baird on RC Cars</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 May 2024 14:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:16:47 +0800</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About RC Cars</title>
-      <link>/posts/about-rc-cars/</link>
-      <pubDate>Fri, 31 May 2024 14:16:47 +0800</pubDate>
-      <guid>/posts/about-rc-cars/</guid>
-      <description>About RC Understanding Remote Control (RC) and Its Applications Remote control (RC) technology has revolutionized various aspects of modern life, offering convenience, efficiency, and new possibilities across multiple industries. From entertainment and leisure to industrial and scientific applications, RC systems play a crucial role in enabling remote operation and control of devices, vehicles, and equipment.&#xA;Introduction to RC Technology: At its core, RC technology involves the transmission of signals from a handheld transmitter to a receiver unit embedded in the controlled device.</description>
-    </item>
     <item>
       <title>2024 China Model Exhibition</title>
       <link>/posts/2024chinamodel/</link>
@@ -28,6 +21,13 @@
       <pubDate>Tue, 23 Apr 2024 15:05:49 +0800</pubDate>
       <guid>/posts/rc_model_car_batteries/</guid>
       <description>Precautions for Using RC Model Car Batteries&#xA;Remote-controlled (RC) model cars have gained popularity among hobbyists and enthusiasts worldwide. These miniature vehicles powered by batteries offer thrilling experiences, but ensuring their safe operation is paramount. Below are essential precautions to consider when using RC model car batteries:&#xA;Battery Selection: Always choose batteries specifically designed for RC model cars. Select batteries that match the voltage and capacity requirements of your car to prevent damage or malfunction.</description>
+    </item>
+    <item>
+      <title>About RC Cars</title>
+      <link>/posts/about-rc-cars/</link>
+      <pubDate>Wed, 31 May 2023 14:16:47 +0800</pubDate>
+      <guid>/posts/about-rc-cars/</guid>
+      <description>About RC Understanding Remote Control (RC) and Its Applications Remote control (RC) technology has revolutionized various aspects of modern life, offering convenience, efficiency, and new possibilities across multiple industries. From entertainment and leisure to industrial and scientific applications, RC systems play a crucial role in enabling remote operation and control of devices, vehicles, and equipment.&#xA;Introduction to RC Technology: At its core, RC technology involves the transmission of signals from a handheld transmitter to a receiver unit embedded in the controlled device.</description>
     </item>
   </channel>
 </rss>

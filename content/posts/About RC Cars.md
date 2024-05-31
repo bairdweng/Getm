@@ -1,6 +1,6 @@
 ---
 title: "About RC Cars"
-date: 2024-05-31T14:16:47+08:00
+date: 2023-05-31T14:16:47+08:00
 tags: [About RC Cars]
 featured_image: "/images/rc/1.jpg"
 description: "About RC"
