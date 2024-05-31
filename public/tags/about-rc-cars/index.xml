@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About RC Cars on Baird on RC Cars</title>
-    <link>//localhost:1313/tags/about-rc-cars/</link>
+    <link>/tags/about-rc-cars/</link>
     <description>Recent content in About RC Cars on Baird on RC Cars</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 May 2024 14:16:47 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/about-rc-cars/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/about-rc-cars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About RC Cars</title>
-      <link>//localhost:1313/posts/about-rc-cars/</link>
+      <link>/posts/about-rc-cars/</link>
       <pubDate>Fri, 31 May 2024 14:16:47 +0800</pubDate>
-      <guid>//localhost:1313/posts/about-rc-cars/</guid>
+      <guid>/posts/about-rc-cars/</guid>
       <description>About RC Understanding Remote Control (RC) and Its Applications Remote control (RC) technology has revolutionized various aspects of modern life, offering convenience, efficiency, and new possibilities across multiple industries. From entertainment and leisure to industrial and scientific applications, RC systems play a crucial role in enabling remote operation and control of devices, vehicles, and equipment.&#xA;Introduction to RC Technology: At its core, RC technology involves the transmission of signals from a handheld transmitter to a receiver unit embedded in the controlled device.</description>
     </item>
   </channel>
