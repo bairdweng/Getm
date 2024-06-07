@@ -2,10 +2,10 @@
 title: "The Ideal FPV Gimbal: Requirements and Features"
 date: 2024-06-07T15:31:46+08:00
 tags: []
-featured_image: "/images/gimbal/8.jpg"
+featured_image: "/images/gimbal/8.png"
 description: ""
 ---
-![1](/images/gimbal/8.jpg)([look](https://www.ebay.com/itm/364933856944?itmmeta=01HZRT5NKWVPP63XQD14APF3F9&hash=item54f7c0beb0:g:6jUAAOSweg5mYqbR))
+![1](/images/gimbal/8.png)([look](https://www.ebay.com/itm/364933856944?itmmeta=01HZRT5NKWVPP63XQD14APF3F9&hash=item54f7c0beb0:g:6jUAAOSweg5mYqbR))
 # The Ideal FPV Gimbal: Requirements and Features
 First-Person View (FPV) drones are becoming increasingly popular for both recreational and professional use. These drones provide a unique perspective by allowing users to see what the drone sees in real-time. One of the critical components that enhance the FPV experience is the gimbal. A well-designed FPV gimbal stabilizes the camera, ensuring smooth and clear video footage. For an FPV gimbal that operates with a maximum voltage of 5 volts and supports left-right and up-down control, certain features and specifications are crucial.
 ![1](/images/gimbal/2.jpg)([look](https://www.ebay.com/itm/364933856944?itmmeta=01HZRT5NKWVPP63XQD14APF3F9&hash=item54f7c0beb0:g:6jUAAOSweg5mYqbR))
@@ -26,7 +26,7 @@ Drones, especially FPV drones, benefit from components that are both compact and
 
 #### Ease of Integration
 The FPV gimbal should be easy to integrate with existing drone systems. This includes compatibility with common FPV cameras and control systems. The gimbal should have straightforward mounting options and be easy to calibrate. User-friendly software for control and adjustment is also crucial. This software should allow for precise tuning of the gimbal’s movements and settings, ensuring that users can achieve the desired camera angles and stabilization with minimal effort.
-![1](/images/gimbal/1.png)
+![1](/images/gimbal/1.jpg)
 ([look](https://www.ebay.com/itm/364933856944?itmmeta=01HZRT5NKWVPP63XQD14APF3F9&hash=item54f7c0beb0:g:6jUAAOSweg5mYqbR))
 #### Durability and Reliability
 Drones often operate in challenging environments, so the gimbal must be durable and reliable. It should be made from robust materials that can withstand vibrations, impacts, and varying weather conditions. Additionally, the electronic components should be well-protected against dust, moisture, and other potential hazards. A reliable gimbal ensures consistent performance, providing peace of mind to users who rely on their drones for critical applications.
